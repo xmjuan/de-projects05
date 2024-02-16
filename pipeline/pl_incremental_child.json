@@ -1,5 +1,5 @@
 {
-	"name": "pl_incremental_load",
+	"name": "pl_incremental_child",
 	"properties": {
 		"activities": [
 			{
